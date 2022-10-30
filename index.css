@@ -1,0 +1,152 @@
+.mainContainer{
+  width: 1350px;
+  height: 750px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  font-family:  'League Spartan', sans-serif;
+  overflow: hidden;
+}
+.myShadow{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 1000px;
+}
+.myTitle{
+  position: absolute;
+  top: 120px;
+  left: 180px;
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+  line-height: 30px;
+}
+.myPara{
+  position: absolute;
+  top: 245px;
+  left: 180px;
+  color: hsl(303, 10%, 53%);
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+}
+.upper{
+  width: 350px;
+  height: 45px;
+  background-color: hsl(300, 24%, 96%);
+  position: absolute;
+  top: 160px;
+  left: 720px;
+  border-radius: 4px;
+}
+.myStar{
+  position: relative;
+  margin: auto;
+  top: 15px;
+  left: 30px;
+}
+.divText{
+  position: relative;
+  display: inline;
+  left: 40px;
+  top: 12px;
+  font-size: 14px;
+  color: hsl(300, 43%, 22%);
+}
+.center{
+  width: 350px;
+  height: 45px;
+  background-color: hsl(300, 24%, 96%);
+  position: absolute;
+  top: 220px;
+  left: 765px;
+  border-radius: 4px;
+}
+.bottom{
+  width: 350px;
+  height: 45px;
+  background-color: hsl(300, 24%, 96%);
+  position: absolute;
+  top: 280px;
+  left: 810px;
+  border-radius: 4px;
+}
+.left{
+  position: absolute;
+  top: 390px;
+  left: 180px;
+  height: 200px;
+  width: 310px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 8px;
+}
+.middle{
+
+    position: absolute;
+    top: 410px;
+    left: 520px;
+    height: 200px;
+    width: 310px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 8px;
+}
+.right{
+  position: absolute;
+  top: 430px;
+  left: 860px;
+  height: 200px;
+  width: 310px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 8px;
+}
+.myImgProfile{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 50px;
+  width: 40px;
+}
+.myName{
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  left: 100px;
+  top: 25px;
+  display: inline;
+}
+.verification{
+  color: hsl(333, 80%, 67%);
+  font-size: 15px;
+  position: absolute;
+  left: 100px;
+  top: 40px;
+  display: inline;
+  font-weight: 100;
+}
+.review{
+  color: hsl(0, 0%, 100%);
+  font-size: 15px;
+  font-weight: 100;
+  position: absolute;
+  left: 30px;
+  top: 80px;
+  line-height: 20px;
+}
+.madeBy{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-family:  'League Spartan', sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+a{
+  cursor: pointer;
+  color: hsl(300, 43%, 22%);
+}
